@@ -1,16 +1,17 @@
-## Hi there 👋
+# Senior SOC Consultant | Security Automation & Detection Engineer | CISA | n8n SOAR
 
-<!--
-**Mallikarjunan-29/Mallikarjunan-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical SOC automations that security teams actually use.  
+My focus is on **alert triage, threat intelligence enrichment, and automated response**.
 
-Here are some ideas to get you started:
+## Key Highlights
+- **SOAR Workflows**: n8n automation for IAM and alert response  
+- **Detection Engineering**: Splunk, QRadar, Sentinel integrations  
+- **Automation Pipelines**: Python backend logic supporting scalable workflows  
+- **Security Frameworks**: MITRE ATT&CK, SOC best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [n8n SOC Automation Workflows](https://github.com/Mallikarjunan-29/n8n-repo) – 10× more clones than other repos  
+- [Python Security Automation](https://github.com/Mallikarjunan-29/python-repo) – Supporting services for workflow automation
+
+## Connect
+[LinkedIn](https://linkedin.com/in/mallikarjunan-cybersecpro/)
