@@ -10,8 +10,8 @@ My focus is on **alert triage, threat intelligence enrichment, and automated res
 - **Security Frameworks**: MITRE ATT&CK, SOC best practices
 
 ## Featured Projects
-- [n8n SOC Automation Workflows](https://github.com/Mallikarjunan-29/n8n-repo) – 10× more clones than other repos  
-- [Python Security Automation](https://github.com/Mallikarjunan-29/python-repo) – Supporting services for workflow automation
+- [n8n SOC Automation Workflows](https://github.com/Mallikarjunan-29/n8n_source_control) – 10× more clones than other repos  
+- [Python Security Automation](https://github.com/Mallikarjunan-29/python-security-automation) – Supporting services for workflow automation
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/mallikarjunan-cybersecpro/)
